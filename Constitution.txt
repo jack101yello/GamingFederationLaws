@@ -1,0 +1,105 @@
+We the people, in order to form a more perfect union, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty for ourselves and our posterity,
+do ordain and establish this Constitution for the Gaming Federation of Discord.
+
+Article I: Concerning the Legislative Branch
+Section 1: The Senate
+Each state shall have one senator. The senators shall be elected to terms of 2 weeks, with elections occuring on the midterms.
+Among the powers of the Senate is the power to confirm presidential appointments, as they are laid out in this Constitution.
+At the beginning of each session (immediately following each election), the Senate shall vote to elect a Senate Leader.
+The role of the Senate Leader is to hold votes for legislation. It is also their role to update the Git Repository with the status of any bills, or to delegate the task to another if need be (e.g. in the case of not having a GitHub account).
+The Senate shall also elect a Whip at the beginning of each session. It is the role of the Senate Whip to ensure that Senators are present and voting.
+The Senate additionally has the power to determine impeachment punishment against the President or Justices on the Supreme Court, should the House have voted in favor of impeachment.
+
+Section 2: The House
+There shall be ten representatives in the server, distributed amongst the states according to population. However, no state may have fewer than one representative, and so representatives may be added to that end.
+Representatives shall be elected to terms of 1 week.
+At the beginning of each session (immediately following each election), the House shall elect a Speaker of the House.
+The role of the Speaker is to hold votes for legislation. It is also their role to update the Git Repository with the status of any bills, or to delegate the task to another if need be (e.g. in the case of not having a GitHub account).
+The House also has the power to impeach the President or Justices on the Supreme Court, should they find either to be unfit for office in the extreme.
+
+Section 3: General Prodecures
+All bills shall require a majority vote in both houses of Congress, but may be introduced in either house by any member of that house.
+Should the bill pass both houses of Congress, it shall be subject to a Presidential veto, with a 2/3 vote by both houses being required to override a veto.
+Among the Congressional powers shall be the ability to being new peoples into the server. This is a standard law like any other.
+A 3/4 quorum shall be required on all Congressional votes within each house, unless a 2/3 supermajority cloture movement shall pass.
+No person may simultaneosly hold any two of the following positions: President, Vice President, Senator, Representative, Cabinet Member, and Supreme Court Justice.
+Another explicit power of Congress shall be to create new states. This is a standard law like any other.
+
+Article II: Concerning the Executive Branch
+Section 1: The President
+The President shall be elected to 2 week terms.
+Among the powers of the President shall be the ability to nominate cabinet members--as well as to create new cabinet posititons--which shall be subject to Senate confirmation.
+Additionally, the President shall have the power to nominate Supreme Court justices, subject to Senate confirmation.
+The President shall have the ability to undertake executive actions when deemed necessary and proper to handle emergency situations. However, as with all actions of the government, these executive actions may be deemed unconstitutional and therefore
+void by the Supreme Court.
+The President shall also have the power to veto laws which shall have already been passed by both houses of Congress.
+It shall be the role of the President to add Executive Orders to the GitHub repository, or to delegate the task if need be.
+
+Section 2: The Vice President
+The Vice President shall run on the ticket alongside the President. Should be President be unable to undertake the requirements of their office for any reason, the Vice President shall immediately become the President, until the former President may
+resume their office. Should the President be permamently indisposed, due to impeachment, resignation, illness, or otherwise, then the Vice President shall become a fully-realized President for the remainder of the current term.
+The Vice President shall preside over the Senate, acting as the tiebraking vote, should a tie arise in the Senate for any reason.
+Should the Vice President's office by empty, due to resignation, removal by the President, or for any other reason, then the current President may nominate a new Vice President, subject to Senate confirmation.
+If both the President and Vice president are unable to perform their proper duties, then the Speaker of the House shall become the sitting president until a special election may determine the new President and Vice President, who shall hold office
+until the end of the current term.
+
+Section 3: The Cabinet
+The President shall have the ability to appoint members to his Cabinet in the various positions that comprise it, subject to Senate approval.
+The President shall have the ability to create new Cabinet positions as they see fit, so long as the actions of the departments headed by those positions are amongst the powers of the President.
+
+Section 4: Criminality
+Should a citizen be in violation of the laws of the Nation, it shall be the role of the Executive Branch to bring them to justice before the Judiciary. This may be done, for instance, by the Attourney General, if such a Cabinet position were to be formed.
+
+Article III: Concerning the Judicial Branch
+Section 1: The Supreme Court
+The Supreme Court shall have the power to deem any acts of the Executive or Legislative Branches unconstitutional, in which case they shall be voided.
+There shall be five Supreme Court Justices, which will serve five week terms on a rolling basis, such that each week a new Justice seat is opened.
+The Supreme Court, being a court, can only act by determining the outcome of a lawsuit, either civil or criminal, which takes place in the Server.
+The actions of the Supreme Court shall set a precedent, unless otherwise stated in the 
+
+Section 2: The Chief Justice
+The Chief Justice of the Supreme Court shall own the Discord Server, and therefore is entrusted with its highest-level maintanance, which cannot be undertaken by lesser users.
+The Chief Justice shall determine which cases the Supreme Court shall hear.
+It is the duty of the Chief Justice to add Supreme Court cases to the GitHub Repository, or to delegate the task if need be.
+
+Article IV: Concerning States
+Section 1: Membership of States
+Upon joining the server, people shall be given Immigrant status for one week, after which they shall become citizens.
+Upon becomming a citizen, one may choose which state to reside in.
+One cannot become a member of the legislature representing a state in which they do not reside.
+
+Section 2: Interstate Immigration
+If a person wishes to move from one state to another, the Executives of both states must agree, subject to mediation by the Supreme Court.
+
+Section 3: Immigrants
+Upon joining the server, all people are initially immigrants. These people are not a part of any state, and have limited ability to interact with the server.
+
+Section 4: Exectives
+Each state may govern themselves however they wish. The only requirement is that they have a singular executive leader, for purposes of interstate communication and negotiation, mediated by the federal government.
+
+
+Article V: Concerning Amendments
+An Amendment to this Constitution may be passed by a 3/5 vote in both houses of Congress. Amendments are not subject to the veto power of the President.
+
+
+Article VI: Concerning the Genesis of the Nation
+Section 1: Elections
+Upon the initial creation of the Nation, elections shall be held on the first Friday of its creation. Henceforth, all elections shall be held on Fridays.
+All offices in the government subject to election shall be elected on that first Friday.
+The first Presidential term shall end two weeks after that date, as per usual.
+The first Senatorial session shall end one week after that date, and henceforth terms shall be two weeks long, as provided for in this Constitution.
+The first Representative session shall end one week after that date, as per usual.
+
+Section 2: The Supreme Court
+The President shall nominate all five Supreme Court Justice as swiftly as possible, and their terms shall begin on that date. However, the first Justice nominated shall serve their term for one week, the second for two, the third for three, the fourth for four,
+and only the fifth for all five weeks, so as to initiate the rolling election as provided for in this Constitution.
+
+Section 3: The States
+All peoples joining the Nation prior to or on the day of the first election shall be immediately made citizens. They shall be free to create and dissolve states as they deem fit, until the date of the first election begins. From there on, the states are solidified
+as they are, except by actions of Congress, as provided for by this Constitution.
+
+
+Signatories to the Constitution
+
+
+Amendments:
